@@ -1,0 +1,6 @@
+1;1;Andrei;1;F;d;10.0;
+2;2;Ana;1;F;d;9.0;
+3;3;Mihai;1;F;d;5.0;
+4;4;Diana;1;F;d;8.0;
+5;1;Andrei;1;F;d;8.0;
+7;1;Andrei;2;X;Y;6.0;
